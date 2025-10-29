@@ -5,7 +5,7 @@ import Gallary from "./components/Gallary.jsx"
 // import Page2 from "./Pages/Page2.jsx"
 // import SecNav from "./components/SecNav.jsx"
 import Page4 from "./Pages/Page4.jsx"
-import Page5 from "./Pages/Page5.jsx"
+// import Page5 from "./Pages/Page5.jsx"
 import Page6 from "./Pages/Page6.jsx"
 import Page7 from "./Pages/Page7.jsx"
 // import Page3 from "./Pages/Page3.jsx"
@@ -42,7 +42,7 @@ function App() {
 
           <Page4 />
 
-          <Page5 />
+          {/* <Page5 /> */}
           <Page6 />
           <Page7 />
           <UpcomingEvents />
